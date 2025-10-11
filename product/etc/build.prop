@@ -1,0 +1,48 @@
+####################################
+# from generate_common_build_props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=Teracube
+ro.product.product.device=Teracube_2e
+ro.product.product.manufacturer=Teracube
+ro.product.product.model=Teracube 2e
+ro.product.product.name=Teracube_2e
+ro.product.build.date=Wed Oct  8 11:29:58 CEST 2025
+ro.product.build.date.utc=1759915798
+ro.product.build.fingerprint=Teracube/Teracube_2e/Teracube_2e:15/AP3A.241105.008/v0pr1emerniabsp:user/release-keys
+ro.product.build.id=AP3A.241105.008
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+ro.product.build.version.incremental=v0pr1emerniabsp
+ro.product.build.version.release=15
+ro.product.build.version.release_or_codename=15
+ro.product.build.version.sdk=35
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.build.16k_page.enabled=false
+ro.product.page_size=4096
+ro.build.characteristics=default
+ro.product.cpu.pagesize.max=4096
+# Value overridden by post_process_props.py. Original value: default
+ro.dalvik.vm.enable_uffd_gc=true
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.launcher.blur.appLaunch=0
+ro.support_one_handed_mode=true
+ro.support_one_handed_mode=true
+ro.gms.pixelmigrate.has_usb_a_to_c_adapter=true
+ro.config.ringtone=Your_new_adventure.ogg
+ro.config.notification_sound=Eureka.ogg
+ro.config.alarm_alert=Fresh_start.ogg
+ro.config.vc_call_vol_steps=11
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v4_light
+ro.opa.eligible_device=true
+ro.com.google.gmsversion=15_202503
+persist.wm.extensions.enabled=true
+persist.device_config.runtime_native.usap_pool_enabled=false
+Build.BRAND=MTK
+# end of file
+
