@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=Teracube
+ro.product.vendor_dlkm.device=Teracube_2e
+ro.product.vendor_dlkm.manufacturer=Teracube
+ro.product.vendor_dlkm.model=Teracube 2e
+ro.product.vendor_dlkm.name=Teracube_2e
+ro.vendor_dlkm.build.date=Wed Oct  8 11:29:58 CEST 2025
+ro.vendor_dlkm.build.date.utc=1759915798
+ro.vendor_dlkm.build.fingerprint=Teracube/Teracube_2e/Teracube_2e:15/AP3A.241105.008/v0pr1emerniabsp:user/release-keys
+ro.vendor_dlkm.build.id=AP3A.241105.008
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=v0pr1emerniabsp
+ro.vendor_dlkm.build.version.release=15
+ro.vendor_dlkm.build.version.release_or_codename=15
+ro.vendor_dlkm.build.version.sdk=35
+# end of file
+
