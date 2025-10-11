@@ -1,0 +1,14 @@
+# full_zirconia-user 15 AP3A.241105.008 v0pr1emerniabsp release-keys
+- manufacturer: teracube
+- platform: mt6765
+- codename: Teracube_2e
+- flavor: Teracube_2e
+- release: 15
+- id: AP3A.241105.008
+- incremental: v0pr1emerniabsp
+- tags: release-keys
+- fingerprint: Teracube/Teracube_2e/Teracube_2e:15/AP3A.241105.008/v0pr1emerniabsp:user/release-keys
+- is_ab: false
+- brand: Teracube
+- branch: full_zirconia-user-15-AP3A.241105.008-v0pr1emerniabsp-release-keys
+- repo: teracube_teracube_2e_dump
