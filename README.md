@@ -1,0 +1,14 @@
+# full_zirconia-user 16 BP2A.250605.031.A2 b0ir1emerniabsp release-keys
+- manufacturer: teracube
+- platform: mt6765
+- codename: Teracube_2e
+- flavor: Teracube_2e
+- release: 16
+- id: BP2A.250605.031.A2
+- incremental: b0ir1emerniabsp
+- tags: release-keys
+- fingerprint: Teracube/Teracube_2e/Teracube_2e:16/BP2A.250605.015/b0ir1emerniabsp:user/release-keys
+- is_ab: false
+- brand: Teracube
+- branch: full_zirconia-user-16-BP2A.250605.031.A2-b0ir1emerniabsp-release-keys
+- repo: teracube_teracube_2e_dump

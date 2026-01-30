@@ -1,0 +1,8 @@
+product/app/Maps/Maps.apk.zst
+product/app/YouTube/YouTube.apk.zst
+product/app/Gmail2/Gmail2.apk.zst
+product/app/WebViewGoogle/WebViewGoogle.apk.zst
+product/app/Photos/Photos.apk.zst
+product/priv-app/Messages/Messages.apk.zst
+product/priv-app/GmsCore/GmsCore.apk.zst
+product/priv-app/Velvet/Velvet.apk.zst
